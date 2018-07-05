@@ -1,0 +1,27 @@
+#header{
+      width: 100%;
+      height: 300px;
+      background: url("..//CountingProgram/IMG_1348.JPG");
+      background-size: cover;
+}
+#header h1 {
+      color: white;
+      text-shadow: 3px 2px gray;
+      font-size: 90px;
+      font-family: "courier new",monospace;
+      text-align: center;
+}
+body {background: linear-gradient(#e7cbe6,#B3A6EE,#C098E1,#B3A6EE,#e7cbe6,#af5ff4);
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+}
+img.animated-gif{
+      width: 30px;
+      height: auto;
+}
+h3 {
+      color:white;
+      text-shadow: 3px 2px gray;
+      text-align: center;
+}
